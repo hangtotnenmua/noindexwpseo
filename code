@@ -1,0 +1,3 @@
+<?php if($paged > 1){
+echo '<meta name="robots" content="noindex,follow" />';
+} ?>
